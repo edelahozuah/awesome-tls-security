@@ -130,6 +130,10 @@ A collection of (not-so, yet) awesome resources related to TLS, PKI and related 
 
 ## Protocols
 
+### UTA (Use TLS in Applications) IETF WG
+
+[Drafts and RFCs (HTTP and SMTP)](https://datatracker.ietf.org/wg/uta/documents/)
+
 ### Strict Transport Security (STS)
 
 [HTTP Strict Transport Security (HSTS). RFC 6797 (2012)](https://doi.org/10.17487/rfc6797)
