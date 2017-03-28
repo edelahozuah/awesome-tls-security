@@ -27,7 +27,7 @@ A collection of (not-so, yet) awesome resources related to TLS, PKI and related 
 
 ### Overview
 
-[GSSL/TLS Vulnerabilities](https://www.gracefulsecurity.com/tls-ssl-vulnerabilities/)  
+[SSL/TLS Vulnerabilities](https://www.gracefulsecurity.com/tls-ssl-vulnerabilities/)  
 
 [ATTACKS ON SSL A COMPREHENSIVE STUDY OF BEAST, CRIME, TIME, BREACH, LUCK Y 13 & RC4 BIASES](https://www.nccgroup.trust/globalassets/our-research/us/whitepapers/ssl_attacks_survey.pdf)
 
@@ -122,6 +122,11 @@ A collection of (not-so, yet) awesome resources related to TLS, PKI and related 
 
 ## Tools
 [bettercap - A complete, modular, portable and easily extensible MITM framework’](https://www.bettercap.org/)
+
+[dns2proxy](https://github.com/LeonardoNve/dns2proxy)
+
+[MITMf](https://github.com/byt3bl33d3r/MITMf)
+
 
 ## Protocols
 
