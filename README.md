@@ -78,6 +78,8 @@ A collection of (not-so, yet) awesome resources related to TLS, PKI and related 
 
 [Intent to Deprecate and Remove: Trust in existing Symantec-issued Certificates (Symantec, 2017)](https://groups.google.com/a/chromium.org/forum/#!topic/blink-dev/eUAKwjihhBs)
 
+[Incidents involving the CA WoSign (WoSign, 2016)](https://groups.google.com/forum/#!topic/mozilla.dev.security.policy/k9PBmyLCi8I%5B1-25%5D)
+
 [Sustaining Digital Certificate Security (Symantec, 2015)](https://security.googleblog.com/2015/10/sustaining-digital-certificate-security.html)
 
 [Improved Digital Certificate Security (Symantec, 2015)](https://security.googleblog.com/2015/09/improved-digital-certificate-security.html)
