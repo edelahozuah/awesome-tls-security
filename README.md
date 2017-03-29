@@ -1,5 +1,7 @@
 # awesome-tls-security
-A collection of (not-so, yet) awesome resources related to TLS, PKI and related stuff
+A collection of (not-so, yet) awesome resources related to TLS, PKI and related stuff. 
+
+There is a bib version also (tlssec.bib)
 
 # Table of Contents
 
