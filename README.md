@@ -72,6 +72,8 @@ A collection of (not-so, yet) awesome resources related to TLS, PKI and related 
 
 ## PKIX
 
+[Analysis of the HTTPS Certificate Ecosystem (2013)](http://conferences.sigcomm.org/imc/2013/papers/imc257-durumericAemb.pdf)
+
 ### Incidents
 
 [Secure» in Chrome Browser Does Not Mean «Safe» (2017)](https://www.wordfence.com/blog/2017/03/chrome-secure/ )
