@@ -84,6 +84,9 @@ A collection of (not-so, yet) awesome resources related to TLS, PKI and related 
 
 [TURKTRUST Unauthorized CA Certificates. (2013)](https://www.entrust.com/turktrust-unauthorized-ca-certificates/)
 
+[Flame malware collision attack explained (FLAME, 2012)](https://blogs.technet.microsoft.com/srd/2012/06/06/flame-malware-collision-attack-explained/
+)
+
 [An update on attempted man-in-the-middle attacks (DIGINOTAR, 2011)](https://security.googleblog.com/2011/08/update-on-attempted-man-in-middle.html)
 
 [Detecting Certificate Authority compromises and web browser collusion (COMODO, 2011)](https://blog.torproject.org/blog/detecting-certificate-authority-compromises-and-web-browser-collusion)
