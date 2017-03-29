@@ -86,6 +86,8 @@ A collection of (not-so, yet) awesome resources related to TLS, PKI and related 
 
 [An update on attempted man-in-the-middle attacks (DIGINOTAR, 2011)](https://security.googleblog.com/2011/08/update-on-attempted-man-in-middle.html)
 
+[Detecting Certificate Authority compromises and web browser collusion (COMODO, 2011)](https://blog.torproject.org/blog/detecting-certificate-authority-compromises-and-web-browser-collusion)
+
 ## SSL Interception
 
 ### Remarkable works
@@ -121,6 +123,23 @@ A collection of (not-so, yet) awesome resources related to TLS, PKI and related 
 [How Kaspersky makes you vulnerable to the FREAK attack and other ways Antivirus software lowers your HTTPS security (2015)](https://blog.hboeck.de/archives/869-How-Kaspersky-makes-you-vulnerable-to-the-FREAK-attack-and-other-ways-Antivirus-software-lowers-your-HTTPS-security.htm)
 
 ## Tools
+### TLS Audit
+
+#### Online
+
+[Qualys SSL Server Test](https://www.ssllabs.com/ssltest/)
+
+[Qualys SSL Client Test](https://www.ssllabs.com/ssltest/viewMyClient.html)
+
+#### Local
+
+[sslyze](https://github.com/iSECPartners/sslyze)
+
+[Qualys SSL Labs (local version)](https://github.com/ssllabs/ssllabs-scan)
+
+[testssl.sh](https://testssl.sh/)
+
+### MITM
 [bettercap - A complete, modular, portable and easily extensible MITM framework’](https://www.bettercap.org/)
 
 [dns2proxy](https://github.com/LeonardoNve/dns2proxy)
