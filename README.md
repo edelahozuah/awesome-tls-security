@@ -144,6 +144,8 @@ A collection of (not-so, yet) awesome resources related to TLS, PKI and related 
 
 ### Sysadmins
 
+[Qualys SSL/TLS Deployment Best Practices](https://github.com/ssllabs/research/wiki/SSL-and-TLS-Deployment-Best-Practices)
+
 [IISCrypto: Tune up your Windows Server TLS configuration](https://www.nartac.com/Products/IISCrypto)
 
 ### MITM
