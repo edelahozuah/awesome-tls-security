@@ -139,6 +139,10 @@ A collection of (not-so, yet) awesome resources related to TLS, PKI and related 
 
 [testssl.sh](https://testssl.sh/)
 
+### Sysadmins
+
+[IISCrypto: Tune up your Windows Server TLS configuration](https://www.nartac.com/Products/IISCrypto)
+
 ### MITM
 [bettercap - A complete, modular, portable and easily extensible MITM framework’](https://www.bettercap.org/)
 
