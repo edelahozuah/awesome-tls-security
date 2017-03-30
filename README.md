@@ -44,6 +44,8 @@ There is a bib version also (tlssec.bib)
 
 [DROWN: Breaking TLS Using SSLv2 (DROWN, 2016)](https://www.usenix.org/conference/usenixsecurity16/technical-sessions/presentation/aviram)
 
+[Homoglyph Advanced Phishing Attacks (2015)](http://www.cisco.com/c/en/us/support/docs/security/email-security-appliance/200146-Homoglyph-Advanced-Phishing-Attacks.html)
+
 [All Your Biases Belong to Us: Breaking RC4 in WPA-TKIP and TLS (RC4NOMORE, 2015)](https://www.usenix.org/conference/usenixsecurity15/technical-sessions/presentation/vanhoef)
 
 [Imperfect Forward Secrecy: How Diffie-Hellman Fails in Practice (LOGJAM, 2015)](https://weakdh.org/imperfect-forward-secrecy-ccs15.pdf)
