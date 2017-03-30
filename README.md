@@ -44,7 +44,7 @@ There is a bib version also (tlssec.bib)
 
 [DROWN: Breaking TLS Using SSLv2 (DROWN, 2016)](https://www.usenix.org/conference/usenixsecurity16/technical-sessions/presentation/aviram)
 
-[Homoglyph Advanced Phishing Attacks (2015)](http://www.cisco.com/c/en/us/support/docs/security/email-security-appliance/200146-Homoglyph-Advanced-Phishing-Attacks.html)
+[Out of Character: Use of Punycode and Homoglyph Attacks to Obfuscate URLs for Phishing (2015)](http://www.irongeek.com/i.php?page=security/out-of-character-use-of-punycode-and-homoglyph-attacks-to-obfuscate-urls-for-phishing)
 
 [All Your Biases Belong to Us: Breaking RC4 in WPA-TKIP and TLS (RC4NOMORE, 2015)](https://www.usenix.org/conference/usenixsecurity15/technical-sessions/presentation/vanhoef)
 
