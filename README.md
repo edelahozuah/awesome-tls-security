@@ -82,6 +82,8 @@ There is a bib version also (tlssec.bib)
 
 [Secure» in Chrome Browser Does Not Mean «Safe» (2017)](https://www.wordfence.com/blog/2017/03/chrome-secure/ )
 
+[Overview of Symantec CA Issues (2014 (aprox) -2017)](https://wiki.mozilla.org/CA:Symantec_Issues)
+
 [Intent to Deprecate and Remove: Trust in existing Symantec-issued Certificates (Symantec, 2017)](https://groups.google.com/a/chromium.org/forum/#!topic/blink-dev/eUAKwjihhBs)
 
 [Incidents involving the CA WoSign (WoSign, 2016)](https://groups.google.com/forum/#!topic/mozilla.dev.security.policy/k9PBmyLCi8I%5B1-25%5D)
