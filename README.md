@@ -156,6 +156,8 @@ There is a bib version also (tlssec.bib)
 
 [Qualys SSL/TLS Deployment Best Practices](https://github.com/ssllabs/research/wiki/SSL-and-TLS-Deployment-Best-Practices)
 
+[Mozilla's Recommendations for TLS Servers](https://wiki.mozilla.org/Security/Server_Side_TLS)
+
 [IISCrypto: Tune up your Windows Server TLS configuration](https://www.nartac.com/Products/IISCrypto)
 
 ### MITM
