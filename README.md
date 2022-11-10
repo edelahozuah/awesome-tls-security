@@ -107,21 +107,30 @@ There is a bib version also (tlssec.bib)
 
 [Certified lies: Detecting and defeating government interception attacks against ssl (2011)](http://files.cloudprivacy.net/ssl-mitm.pdf)
 
-[The Security Impact of HTTPS Interception (2017)](https://zakird.com/papers/https_interception.pdf)
 
-[US-CERT TA17-075A Https interception weakens internet security (2017)](https://www.us-cert.gov/ncas/alerts/TA17-075A) 
+[How the NSA, and your boss, can intercept and break SSL (2013)](http://www.zdnet.com/article/how-the-nsa-and-your-boss-can-intercept-and-break-ssl/)
 
-[ Killed by Proxy: Analyzing Client-end TLS Interception Software (2016)](https://madiba.encs.concordia.ca/~x_decarn/papers/tls-proxy-ndss2016.pdf)
+
+[The Matter of Heartbleed (2014)](https://jhalderm.com/pub/papers/heartbleed-imc14.pdf)
+
+[TLS in the wild—An Internet-wide analysis of TLS-based protocols for electronic communication (2015)]()
 
 [TLS interception considered harmful How Man-in-the-Middle filtering solutions harm the security of HTTPS (2015)](https://events.ccc.de/camp/2015/Fahrplan/events/6833.html) 
 
 [The Risks of SSL Inspection (2015)](https://insights.sei.cmu.edu/cert/2015/03/the-risks-of-ssl-inspection.html) 
 
-[TLS in the wild—An Internet-wide analysis of TLS-based protocols for electronic communication (2015)]()
+[ Killed by Proxy: Analyzing Client-end TLS Interception Software (2016)](https://madiba.encs.concordia.ca/~x_decarn/papers/tls-proxy-ndss2016.pdf)
 
-[The Matter of Heartbleed (2014)](https://jhalderm.com/pub/papers/heartbleed-imc14.pdf)
+[The Security Impact of HTTPS Interception (2017)](https://zakird.com/papers/https_interception.pdf)
 
-[How the NSA, and your boss, can intercept and break SSL (2013)](http://www.zdnet.com/article/how-the-nsa-and-your-boss-can-intercept-and-break-ssl/)
+[US-CERT TA17-075A Https interception weakens internet security (2017)](https://www.us-cert.gov/ncas/alerts/TA17-075A) 
+
+[The Security Impact of HTTPS Interception (2017)](https://jhalderm.com/pub/papers/interception-ndss17.pdf)
+ - [Understanding the prevalence of web traffic interception (2017)](https://blog.cloudflare.com/understanding-the-prevalence-of-web-traffic-interception/)
+ 
+ [Trust me, I’m a Root CA!
+Analyzing SSL Root CAs in modern Browsers and Operating Systems (2019)](https://publications.sba-research.org/publications/SSL.pdf)
+
 
 ### SSL Interception-related Incidents
 
@@ -169,6 +178,9 @@ There is a bib version also (tlssec.bib)
 
 
 ## Protocols
+### TLS 1.3
+
+[RFC 8446 - The Transport Layer Security (TLS) Protocol Version 1.3 (2018)](https://www.rfc-editor.org/rfc/rfc8446)
 
 ### UTA (Use TLS in Applications) IETF WG
 
