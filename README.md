@@ -80,6 +80,8 @@ There is a bib version also (tlssec.bib)
 
 ### Incidents
 
+[A complete study of P.K.I. (PKI’s Known Incidents) (2019)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3425554)
+
 [Secure» in Chrome Browser Does Not Mean «Safe» (2017)](https://www.wordfence.com/blog/2017/03/chrome-secure/ )
 
 [Overview of Symantec CA Issues (2014 (aprox) -2017)](https://wiki.mozilla.org/CA:Symantec_Issues)
