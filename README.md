@@ -154,6 +154,7 @@ Analyzing SSL Root CAs in modern Browsers and Operating Systems (2019)](https://
 [Qualys SSL Server Test](https://www.ssllabs.com/ssltest/)
 
 [Qualys SSL Client Test](https://www.ssllabs.com/ssltest/viewMyClient.html)
+[TryTheHandle: external server security test (TLS, HTTP headers, DNS, SPF/DKIM/DMARC)](https://trythehandle.eu/)
 
 #### Local
 
